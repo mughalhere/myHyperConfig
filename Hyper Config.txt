@@ -130,10 +130,6 @@ module.exports = {
         flipped: true,
       },
     opacity:0.94,
-    hypest: {
-        // Default is false
-        darkmode: true
-    },
 
     // if `true` (without backticks and without quotes), on right click selected text will be copied or pasted if no
     // selection is present (`true` by default on Windows and disables the context menu feature)
